@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort">
+        <item>默认时间（降序）</item>
+        <item>时间（升序）</item>
+        <item>重要程度（降序）</item>
+        <item>重要程度（升序）</item>
+        <item>首字母</item>
+    </string-array>
+    <string-array name="type">
+        <item>显示类型(全部)</item>
+        <item>word</item>
+        <item>group</item>
+        <item>sentence</item>
+    </string-array>
+</resources>
